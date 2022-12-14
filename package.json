@@ -1,0 +1,19 @@
+{
+  "name": "influencer-gpt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "twitter-api-v2": "^1.12.9"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "openai": "^3.1.0"
+  }
+}

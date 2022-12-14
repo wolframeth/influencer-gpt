@@ -1,0 +1,4 @@
+.env
+prompts.json
+node_modules
+/node_modules
